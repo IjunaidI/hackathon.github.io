@@ -1,0 +1,23 @@
+body{margin-left: 20px; font-family: 'Roboto', sans-serif;}
+div{width: 365px;}
+img{width:auto;}
+.checked{color: orange;}
+ span{display: inline-block;}
+
+p ,h1{margin-left: 10px;display: inline-block;}
+p,h1,span{margin-top: 10px;margin-bottom: 0px;}
+
+br {
+   display: block;
+   margin: 10px 0;
+}
+.score{color: grey;
+display: inline;}
+.time{color: #d2d2d2;font-size: 15px;padding-left: 30px;font-weight: bold;}
+.time1{font-size: 30px;color: grey;}
+.reserve{color: #6e9ff5;margin-top: 20px;margin-left:15px;margin-bottom: 20px; }
+.bold{font-size: 16px;}
+.para{color: grey;}
+.map{margin-left: 80px;color: grey; }
+.map1{color: grey;}
+.time2{background-color: #d2d2d2;color: black;margin-left:30px ; padding: 10px;font-size: 15px;font-weight: bold;border-radius: 5px}

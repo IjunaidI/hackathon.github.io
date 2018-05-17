@@ -1,0 +1,23 @@
+div{position: relative;}
+.nav{margin-left: 13%;background-color: white;}
+.b4{
+	position: absolute;
+	right:14%;
+	background-color: #64d67d;
+}
+.b2{
+	position: absolute;
+	right:37.5%;
+	background-color: white;
+}
+.b3{
+	background-color: #f9c643;
+	position: absolute;
+	right:26%;
+}
+
+.sidebar{margin-top: -4.5%;background-color: #348cb3;}
+.nav{
+	padding-top: 10px;
+	padding-bottom:10px;
+}

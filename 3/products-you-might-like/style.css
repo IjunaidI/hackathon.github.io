@@ -1,0 +1,23 @@
+body{font-family: roboto; }
+h6{font-weight: bold;}
+div{
+	display: inline-block;
+	width: 20%;
+	margin-right: 3%;
+}
+.first{margin-left: 3%}
+img{width: 100%;}
+p{margin: 0px;}
+hr{
+	margin:5px 0px 5px 0px;
+
+}
+h6{
+	margin: 0px;
+}
+.grey{
+	color: #8e8e8e;
+	font-size: 12px;
+}
+h1{font-weight: bolder;text-align: center; color: #111111; margin-bottom: 3%}
+.color{margin-top: 5px;}

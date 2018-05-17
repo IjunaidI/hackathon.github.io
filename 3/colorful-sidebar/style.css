@@ -1,0 +1,18 @@
+
+.icon{font-size: 20px;margin-bottom: 20px}
+div:hover>.icon1{color:#784d17 ;}
+div:hover>.icon2{color: #712335;}
+div:hover>.icon3{color: #77231e;}
+div:hover>.icon4{color: #823992;}
+div:hover>.icon5{color: #215a7e;}
+div:hover>.icon6{color: #2b5c30;}
+div:hover>.icon7{color: #4c692d;}
+div:hover>.icon8{color:#c3b964 ;}
+div:hover>.icon9{color: #37454b;}
+div:hover>.icon10{color: #85551b;}
+div:hover>.icon11{color: #784d17;}
+div{display: inline-block;position: relative;}
+a{padding: 0;}
+div{padding: 0;line-height: 0px;}
+p{display: inline;margin-top: -13px;text-align:center;padding: 0px;visibility: visible;position: absolute;left: -80px;font-size: 9px;font-weight: bold;}
+div:hover>p{position: absolute;left: 9px;transition: 1s;}

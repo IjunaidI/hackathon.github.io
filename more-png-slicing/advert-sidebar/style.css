@@ -1,0 +1,26 @@
+body{font-family: roboto;font-weight: bold}
+hr {
+   
+    height: 1px;
+    
+    border: 2px solid grey;
+    
+}
+
+.card{
+	padding: 20px;
+	background-color: #fefcda;
+	border:1px solid #e3e4c5;
+	width: 30%;
+	height: 20%;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+hr{color: black;}
+.grey{display: inline;margin-right: 20px;color: grey;font-weight: bold;}
+.setting{margin-left: 20px;display: inline;}
+.pad{margin-left: 40px;margin-top: -38px;color: #0069d3;}
+.head{font-weight: bolder;color: grey;margin-bottom: -16px;}
+.pad1{color: #0069d3;margin-left: 40px;margin-top: -38px;margin-bottom: -8px;}
+.book{color: grey;}
+.head{margin-top: -10px;}
